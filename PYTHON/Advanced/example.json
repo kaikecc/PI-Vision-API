@@ -1,0 +1,61 @@
+{
+    "DatabaseID": "",
+    "Identities": [
+        {
+            "Identifier": "3e8bcbc7-8996-42a0-9d9b-906f84b77f83",
+            "Name": "RDX-PIMS-USERS",
+            "Permission": 1
+        }
+    ],
+    "Labels": [
+        "TEST1",
+        "TEST2"
+    ],
+    "Display": {
+        "Symbols": [
+            {
+                "Name": "Symbol0",
+                "SymbolType": "statictext",
+                "Configuration": {
+                    "Top": 117,
+                    "Left": 479,
+                    "Height": 34.5,
+                    "SetTextFromLink": false,
+                    "StaticText": "PI VISION API",
+                    "LinkURL": "",
+                    "Fill": "rgba(255,255,255,0)",
+                    "Stroke": "rgba(255,255,255,1)",
+                    "Rotation": 0,
+                    "FontSize": null,
+                    "UseIntegerFontSize": false,
+                    "Align": true
+                }
+            }
+        ],
+        "AttachmentIds": [],
+        "RequestId": null,
+        "StartTime": "*-8h",
+        "EndTime": "*",
+        "LegacyDisplay": null,
+        "EventFramePath": null,
+        "Id": 0,
+        "Name": "PI VISION API",
+        "Path": null,
+        "Owner": "",
+        "ReadOnly": false,
+        "Revision": 3,
+        "DisplayProperties": {
+            "BackgroundColor": "#303030",
+            "showAssetPaths": true,
+            "Calculations": []
+        },
+        "ProductVersion": "3.7"
+    },
+    "Symbols": null,
+    "COG": null,
+    "StorageTypeId": 0,
+    "ParentId": 0,
+    "Attachments": [],
+    "Created": "2024-06-20T12:26:24Z",
+    "Modified": "2024-07-02T19:32:14Z"
+}
