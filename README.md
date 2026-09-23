@@ -1,5 +1,9 @@
 ## PI Vision Display API: Exporting & Importing Your Visualizations
 
+## Busca de tags em todos os displays (Python / Windows EXE)
+
+Veja [BUSCA_TAGS.md](BUSCA_TAGS.md) para usar `buscar_tags.py`, percorrer pastas/subpastas e gerar relatórios CSV a partir de um TXT de tags. Execute `build.ps1` para testar e gerar `dist/PIVisionTagFinder.exe` com PyInstaller.
+
 This repository contains resources and examples for working with the PI Vision Display API, specifically focusing on exporting and importing PI Vision displays.
 
 **Why use the PI Vision Display API?**
@@ -30,4 +34,4 @@ The API provides a powerful and flexible way to:
 
 Contributions are welcome! If you encounter any issues, have ideas for improvements, or want to share your own API integration scripts, feel free to open an issue or submit a pull request.
 
-**Let's build a more efficient and collaborative workflow around PI Vision displays!** 
+**Let's build a more efficient and collaborative workflow around PI Vision displays!**

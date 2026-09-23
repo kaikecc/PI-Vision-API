@@ -1,0 +1,4 @@
+# Uma tag por linha. Linhas vazias e comentarios com # sao ignorados.
+SINUSOID
+CDT158
+\\PISERVER\TAG.EXEMPLO
